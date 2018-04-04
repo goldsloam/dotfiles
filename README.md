@@ -1,4 +1,4 @@
 # dotfiles
 
-configs: .config
+configs: .config  
 scripts: .config/scripts
